@@ -42,7 +42,7 @@
   
 <h3 align="left">Social</h3>
 <p align="left"> 
-<a href="https://www.instagram.com/mertkusss/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="canerture | LinkedIn" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/mertkuss/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="canerture | Instagram" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/mertkuss/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="canerture | LinkedIn" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/mertkusss/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="canerture | Instagram" width="40" height="40"/> </a>
 <a href="https://www.twitter.com/mertkusss/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1651794099~hmac=00959872b01c5806dcae7f2bbf1e0311" alt="canerture | Instagram" width="40" height="40"/> </a>
 </p>
