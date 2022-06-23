@@ -13,7 +13,7 @@
 
 <img width="40%" align="right" alt="space-computers" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" />
 
-### <div align="center">I'm lover of Kotlin and Android. I am a learner who tries to learn everything about Android/Kotlin</div>  
+### <div align="center">I'm lover of Kotlin and Android. I'm working as an Android Developer at LC Waikiki</div>  
 <br/>
 
 - I'm Addicted to Kotlin, enthusiastic about Jetpack Compose and Kotlin server-side.    
